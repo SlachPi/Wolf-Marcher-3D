@@ -5,5 +5,5 @@ A program inspirered by the old game Wolfenstein 3D, but it is not technically a
 - SDL2.
 
 ## Screenshot
-![screenshot](https://github.com/SlachPi/Wolf-Marcher-3D/blob/main/screenshot.png)
+![screenshot](https://github.com/SlachPi/Wolf-Marcher-3D/blob/main/screen_recording.gif)
 
